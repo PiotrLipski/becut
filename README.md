@@ -24,7 +24,6 @@ Anything outside of that program is outside of the unit
 * Calls to DB2
 * Calls to CICS
 * MQ
-* ...
 
 BECut does not call stuff outside the program but "tricks" the program into thinking the call was made.
 
